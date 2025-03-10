@@ -49,8 +49,8 @@ const App = () => {
               <img src="image/hiring.png" alt="Hiring" />
             </div>
             <div className="content">
-              <h3>Welcome to my portfolio</h3>
-              <p>Your door to know me more</p>
+              <h3>Showcasing my skills and experiences</h3>
+              <p></p>
               <a className="click" href="#about">
                 <button className="btn">About Me</button>
               </a>
